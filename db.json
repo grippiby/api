@@ -1297,5 +1297,130 @@
 			"created_at": "2018-05-23",
 			"updated_at": "2020-05-23"
 		}
+	],
+	"address": [
+		{
+			"id": 1,
+			"title": "Home",
+			"default": true,
+			"address": {
+				"lat": 1.357334,
+				"lng": 103.821417,
+				"formatted_address": "Wolfson Institute of Preventive Medicine, London EC1M 7BA, UK"
+			}
+		},
+		{
+			"id": 2,
+			"title": "Office",
+			"default": false,
+			"address": {
+				"lat": 51.522379,
+				"lng": -0.09913,
+				"formatted_address": "80 Windsor Park Rd, Singapore 574175"
+			}
+		}
+	],
+	"attribute": {
+		"id": 2,
+		"name": "Color",
+		"slug": "color",
+		"values": [
+			{
+				"id": 5,
+				"value": "#e86c25"
+			},
+			{
+				"id": 6,
+				"value": "#ffa5b4"
+			},
+			{
+				"id": 7,
+				"value": "#8224e3"
+			},
+			{
+				"id": 8,
+				"value": "#dd3333"
+			},
+			{
+				"id": 8,
+				"value": "#ff3333"
+			},
+			{
+				"id": 8,
+				"value": "#ee3333"
+			},
+			{
+				"id": 8,
+				"value": "#fe3333"
+			},
+			{
+				"id": 8,
+				"value": "#ef3333"
+			}
+		]
+	},
+	"attributes": [
+		{
+			"id": 1,
+			"name": "Size",
+			"slug": "size",
+			"values": [
+				{
+					"id": 1,
+					"value": "S"
+				},
+				{
+					"id": 2,
+					"value": "M"
+				},
+				{
+					"id": 3,
+					"value": "L"
+				},
+				{
+					"id": 4,
+					"value": "XL"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Color",
+			"slug": "color",
+			"values": [
+				{
+					"id": 5,
+					"value": "#e86c25"
+				},
+				{
+					"id": 6,
+					"value": "#ffa5b4"
+				},
+				{
+					"id": 7,
+					"value": "#8224e3"
+				},
+				{
+					"id": 8,
+					"value": "#dd3333"
+				},
+				{
+					"id": 8,
+					"value": "#ff3333"
+				},
+				{
+					"id": 8,
+					"value": "#ee3333"
+				},
+				{
+					"id": 8,
+					"value": "#fe3333"
+				},
+				{
+					"id": 8,
+					"value": "#ef3333"
+				}
+			]
+		}
 	]
 }
